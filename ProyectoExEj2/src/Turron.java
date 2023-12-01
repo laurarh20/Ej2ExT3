@@ -5,6 +5,7 @@ public class Turron {
 		// TODO Auto-generated method stub
 
 		System.out.println("soy Laura rubio y me encantan los turrones");
+		System.out.println("pero mi favorito es el de chocolate");
 	}
 
 }
